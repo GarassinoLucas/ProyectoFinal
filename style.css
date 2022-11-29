@@ -26,12 +26,8 @@ body{
       
       }
       @media screen and (max-width: 960px){
-        
-      
-        .container{
+       .container{
           align-items: center;
-  
-          
         }
         
         .containercard{
@@ -40,7 +36,10 @@ body{
         .containeryt{
           align-items: left;
         }
-        
+        .resultado iframe{
+        width:55%;
+        height: 200px;         
+        }
       }
         
       
